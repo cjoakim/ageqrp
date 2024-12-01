@@ -1,3 +1,24 @@
+# cj - manually added entries
+
+**/.idea/
+**/.DS_Store
+**/.env
+**/__pycache__/
+**/bin/
+**/include/
+**/htmlcov/
+**/lib/
+**/lib64/
+**/log/
+**/man/
+**/tmp/
+**/Scripts/
+**/venv/
+**/.vscode/
+**/__MACOSX/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
