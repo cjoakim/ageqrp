@@ -13,9 +13,9 @@ if [ "$1" = "explode" ]
 then
     # explode the tar file and list its contents
     cd dist/
-    gunzip ageqrp-0.1.0.tar.gz
-    tar tvf ageqrp-0.1.0.tar > ageqrp.tar.contents.txt
-    tar xvf ageqrp-0.1.0.tar
+    gunzip ageqrp-0.2.0.tar.gz
+    tar tvf ageqrp-0.2.0.tar > ageqrp.tar.contents.txt
+    tar xvf ageqrp-0.2.0.tar
     cat ageqrp.tar.contents.txt
     cd ..
 else
